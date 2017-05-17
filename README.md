@@ -1,5 +1,6 @@
 <p align="center">
   <img src="TTP square.png" width=100 height=100>
+  [[TTP square.png|alt=octocat]]
 
   <h3 align="center"> The Takaurist Project </h3>
 
