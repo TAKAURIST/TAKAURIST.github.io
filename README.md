@@ -14,5 +14,6 @@
 I'm using Github pages to make a temporary free website that I can redirect people to if they want to check out anything related to me.
 speaking of which:
 - my twitter [@takaurist](https://twitter.com/takaurist)
+- my Github [TAKAURIST](https://github.com/TAKAURIST)
 
 for now, I'm still in the set up phase for everything
