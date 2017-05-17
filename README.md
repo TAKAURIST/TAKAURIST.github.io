@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="#">
-    <img src="TTP square.png" width=100 height=100>
-  </a>
+  <img src="TTP square.png" width=100 height=100>
 
   <h3 align="center"> The Takaurist Project </h3>
 
